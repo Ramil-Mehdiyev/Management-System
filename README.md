@@ -1,4 +1,4 @@
-# Management-System
+# SQL-Management-System
 Oracle SQL database project for managing online courses and analytical queries 
 # 📚 Online Course Management System - Oracle SQL Database
 
